@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saim MISTIN</h1>
 <h3 align="center">A student MS in Computer Science passion about Data</h3>
-<img align="right" alt="Coding" width="400" 
+
 
 - 🔭 I’m currently working on **Waze monthly user churn EDA**
 
