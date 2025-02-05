@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Waze monthly user churn EDA**
 
-- 🌱 I’m currently learning **AI-ML and Google cloud data engineer Certificate**
+- 🌱 I’m currently learning **AI-ML and Azure cloud data engineer Certificate**
 
 - 💬 Ask me about **SQL and Python**
 
